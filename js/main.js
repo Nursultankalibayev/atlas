@@ -1,0 +1,32 @@
+$('.carousels').slick({
+    fade:true,
+    dots:true,
+    arrows:false,
+    autoplay:true,
+    speed:1200,
+    autoplaySpeed:2000,
+});
+$('.carousel_pilgrims').slick({
+    fade:true,
+    dots:true,
+    arrows:false,
+    autoplay:true,
+    speed:1200,
+    autoplaySpeed:2000,
+});
+$('.reviews_carousel').slick({
+    fade:true,
+    dots:true,
+    arrows:false,
+    autoplay:true,
+    speed:1200,
+    autoplaySpeed:2000,
+});
+$('.tours_items').slick({
+    fade:true,
+    dots:true,
+    arrows:false,
+    autoplay:true,
+    speed:1200,
+    autoplaySpeed:2000,
+});
